@@ -52,6 +52,8 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="1"
+            android:visibility="gone"
+            tools:visibility="visible"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -61,6 +63,8 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="1"
+            android:visibility="gone"
+            tools:visibility="visible"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -70,6 +74,8 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="1"
+            android:visibility="gone"
+            tools:visibility="visible"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -79,6 +85,8 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="1"
+            android:visibility="gone"
+            tools:visibility="visible"
             android:textSize="18sp"
             android:textStyle="bold" />
 
@@ -88,6 +96,19 @@
             android:layout_height="wrap_content"
             android:layout_margin="5dp"
             android:text="1"
+            android:visibility="gone"
+            tools:visibility="visible"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/sixthLottoNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:text="1"
+            android:visibility="gone"
+            tools:visibility="visible"
             android:textSize="18sp"
             android:textStyle="bold" />
 
